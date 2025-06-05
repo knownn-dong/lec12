@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bug
-=======
-main
->>>>>>> fda248d19a2aa60224ed7ac67e4551b98d0b5751
+apple5
